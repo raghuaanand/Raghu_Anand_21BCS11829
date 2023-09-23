@@ -63,6 +63,10 @@
     padding-left: 1rem;
   }
 
+  .page-links > a:hover{
+    color: rgba(194, 190, 190, 0.733);
+  }
+
   .menu{
     display: none; 
     position: fixed; 

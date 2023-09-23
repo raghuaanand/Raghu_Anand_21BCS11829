@@ -63,6 +63,10 @@
     color: rgb(9, 9, 9);
   }
 
+  .page-links > a:hover{
+    color: rgba(194, 190, 190, 0.733);
+  }
+
   .menu{
     display: none; 
     position: fixed; 
