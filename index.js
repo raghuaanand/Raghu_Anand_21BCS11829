@@ -24,3 +24,25 @@ menu.addEventListener('click', () => {
   close.style.display="none";
   hamburger.style.display ="block";
 })
+
+
+/* start pf typing effect */
+
+const text = "WebWizardry";
+let index = 0;
+
+
+const heading = document.getElementById("typing-heading");
+
+function type() {
+    if (index < text.length) {
+        heading.innerHTML += text.charAt(index);
+        index++;
+        setTimeout(type, 150); 
+    }
+}
+
+window.addEventListener("load", type);
+
+
+/* end of typing effect */

@@ -92,7 +92,7 @@
     padding-left: 0.625rem;
   }
 
-  @media (min-width: 768px) { 
+  @media (min-width: 820px) { 
     .hamburger{
       display: none;
     } 
