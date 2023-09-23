@@ -10,6 +10,8 @@
 
 
 
-
+## Home page on Desktop
 ![Home Page on Desktop](./Screenshots/Home%20Page%20(Desktop).png)
+
+## Home Page on Mobile
 ![Home Page on Mobile](./Screenshots/Home%20Page%20(Mobile).png)
