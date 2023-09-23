@@ -4,7 +4,7 @@
 ## Team Member  
 ### Raghu Anand, UID: 21BCS11829, Contact No: 7762091121
 
-[Figma Design](https://www.figma.com/proto/pzBlFersIdLYLwQP8CMShJ/E-Learning-Platform-web?type=design&node-id=0-1&t=YplznOjbjWQgmV0v-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2 )
+[Click for Figma Design](https://www.figma.com/proto/pzBlFersIdLYLwQP8CMShJ/E-Learning-Platform-web?type=design&node-id=0-1&t=YplznOjbjWQgmV0v-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2 )
 
 
 
@@ -12,4 +12,4 @@
 
 
 ![Home Page on Desktop](./Screenshots/Home%20Page%20(Desktop).png)
-![Home Page on Mobile](./Screenshots/Home%20Page%20(Mobile).png.png)
+![Home Page on Mobile](./Screenshots/Home%20Page%20(Mobile).png)
